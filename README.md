@@ -7,7 +7,7 @@
 - Department
 - User
 
-![Model](https://github.com/klc-pakize/django_person_app/blob/master/PersonnelAppERD.png)
+![Model]()
 
 # Department
 
@@ -25,7 +25,7 @@
     - Staff_User
         - CRUD personnel (their own personnel)
 
-# Live Project
+<!-- # Live Project -->
 
-- <a href="https://pakize.pythonanywhere.com/">Live of the project</a>
-- <a href="https://pakize.pythonanywhere.com/swagger/">For the swagger of the project</a>
+<!-- - <a href="https://pakize.pythonanywhere.com/">Live of the project</a>
+- <a href="https://pakize.pythonanywhere.com/swagger/">For the swagger of the project</a> -->
