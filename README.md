@@ -7,7 +7,7 @@
 - Department
 - User
 
-![Model]()
+![Model](https://github.com/sultankeles/personnel_app/blob/master/personnal_app_erd.jpeg)
 
 # Department
 
